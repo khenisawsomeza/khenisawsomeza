@@ -1,4 +1,5 @@
 ## Hi there 👋
+I am a Computer Science student from Ateneo de Davao University
 
 <!--
 **khenisawsomeza/khenisawsomeza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
