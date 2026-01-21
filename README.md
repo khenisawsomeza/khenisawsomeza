@@ -12,16 +12,15 @@
   <a href="mailto:hinlogkhenyshi@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-<a href="https://linkedin.com/in/khenyshi-hinlog" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="khenyshi-hinlog" height="30" width="40" /></a>
 </p>
 
 ---
 
 ## 💫 About Me
-- 🔭 Currently building projects with **React**, **Next.js**, and **React Native**
-- 🌱 Learning cloud technologies with **AWS**
-- 💡 Open to collaborating on innovative projects
-- 📫 Reach me at: **hinlogkhenyshi@gmail.com**
+- Currently building projects with **React**, **Next.js**, and **React Native**
+- Learning cloud technologies with **AWS**
+- Open to collaborating on innovative projects
+- Reach me at: **hinlogkhenyshi@gmail.com**
 
 ---
 
@@ -117,15 +116,8 @@
 
 ---
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=khenisawsomeza&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="170"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=khenisawsomeza&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170"/>
-</p>
-
 ---
 
 <p align="center">
-  <sub>Made with 💙 by Khen</sub>
+  <sub>Made with by Khenyshi</sub>
 </p>
