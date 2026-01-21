@@ -116,6 +116,8 @@
 
 ---
 
+![GitHub Contribution Snake](https://github.com/khenisawsomeza/khenisawsomeza/raw/output/github-contribution-grid-snake.svg)
+
 ---
 
 <p align="center">
